@@ -1,5 +1,7 @@
 # wso2am-all-in-one
 
+# documentation# https://github.com/salamsalahsalam/wso2-apim-with-postgresql/blob/main/Deploying%20WSO2%20Using%20Helm%20and%20PostgreSQL2%20(1).docx
+
 ![Version: 4.4.0-1](https://img.shields.io/badge/Version-4.4.0--1-informational?style=flat-square) ![AppVersion: 4.4.0](https://img.shields.io/badge/AppVersion-4.4.0-informational?style=flat-square)
 
 A Helm chart for the deployment of WSO2 API Manager all-in-one distribution.
